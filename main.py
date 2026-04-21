@@ -6,6 +6,11 @@ for j in range(5):
     print(f"This is another loop, iteration {j+1}")
 print("Second loop has completed.")
 
-for j in range(5):
-    print(f"This is another loop, iteration {j+1}")
-print("Second loop has completed.")
+print("test phrase")
+
+
+def keke(x):
+    print(x)
+
+
+keke(2)
